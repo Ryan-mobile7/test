@@ -1,0 +1,21 @@
+Title:
+Comprehensive Website Redesign for Mountain High Resort
+
+Description:
+Led the complete overhaul of Mountain High Resort’s official website to enhance user experience, streamline navigation, and improve mobile responsiveness. Implemented real-time snow conditions, lift status updates, and an interactive trail map to provide visitors with up-to-date information. The redesign aimed to boost user engagement and support the resort's marketing and operational goals.
+
+Tech Skills:
+
+Responsive Web Design
+
+HTML5, CSS3, JavaScript
+
+Content Management Systems (CMS)
+
+SEO Optimization
+
+User Interface (UI) Design
+
+User Experience (UX) Design
+
+Web Analytics Integration
