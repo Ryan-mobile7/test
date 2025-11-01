@@ -1,0 +1,25 @@
+Focotik App Development
+Focotik App Development
+
+Client: Focotik, a popular e-commerce platform
+
+Goals: Develop a user-friendly app for customers to shop, track orders, and receive exclusive offers.
+
+Challenges:
+- Integrating multiple payment gateways
+- Ensuring seamless navigation for a vast product catalog
+- Meeting tight deadlines for launch
+
+Solutions:
+- Collaborated with client to prioritize features and streamline development
+- Implemented a robust payment gateway integration
+- Conducted thorough testing to ensure smooth app performance
+
+Results:
+- Successful app launch within 8 weeks
+- 30% increase in sales within first quarter
+- Positive user reviews and ratings
+
+I'm proud to have helped Focotik achieve their goals and enhance their customers' shopping experience!
+
+kotlin
